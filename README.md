@@ -29,7 +29,7 @@ Dataset dimuat menggunakan `pandas` untuk melihat informasi tentang jumlah baris
 - **Menggabungkan Teks**: menggabungkan semua proses di atas ke dalam satu kolom baru
 
 ### 4. Pelabelan
-Pada tahapan ini, pemberian label [positif] (https://raw.githubusercontent.com/angelmetanosaa/dataset/main/lexicon_positive.csv) dan [negatif] (https://raw.githubusercontent.com/angelmetanosaa/dataset/main/lexicon_negative.csv) pada data ulasan berdasarkan pada repository github milik orang lain. Kemudian dilakukan visualisasi kata wordcloud baik secara umum, positif maupun negatif serta visualisasi dataset.
+Pada tahapan ini, pemberian label [positif](https://raw.githubusercontent.com/angelmetanosaa/dataset/main/lexicon_positive.csv) dan [negatif](https://raw.githubusercontent.com/angelmetanosaa/dataset/main/lexicon_negative.csv) pada data ulasan berdasarkan pada repository github milik orang lain. Kemudian dilakukan visualisasi kata wordcloud baik secara umum, positif maupun negatif serta visualisasi dataset.
 
 ### 5. Modelling Algoritma Deep Learning
 Pada tahapan ini, digunakan ekstraksi fitur tokenizer kemudian encode labes ke format numerik pada berbagai algoritma deep learning dan variasi data splitting. Rincian sebagai berikut:
